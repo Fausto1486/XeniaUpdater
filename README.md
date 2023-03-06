@@ -1,5 +1,3 @@
-FORKED REPOSITORY
-
 # Unofficial Xenia Updater
 Small program made to manage the Xenia Xbox 360 emulator and its versions.
 
